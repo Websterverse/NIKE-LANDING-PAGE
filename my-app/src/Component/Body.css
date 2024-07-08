@@ -1,0 +1,73 @@
+* {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    padding-left: 80px;
+    font-size: 70px;
+    /* margin-bottom: 30px; */
+}
+
+.best {
+    padding-bottom: 30px;
+}
+
+h3 {
+    padding-left: 80px;
+
+}
+
+.shoes {
+    padding-bottom: 30px;
+}
+
+
+.button {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 100px;
+    /* background-color: aqua; */
+    margin-left: 80px;
+    justify-content: space-around;
+}
+
+.shop {
+    height: 50px;
+}
+
+h4 {
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+
+.images {
+    padding-left: 80px;
+}
+
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.main .right img {
+    height: 500px;
+    mix-blend-mode: darken;
+    width: 500px;
+}
+
+.amazon {
+    width: 70px;
+    border-radius: 20px;
+}
